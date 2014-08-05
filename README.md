@@ -1,4 +1,4 @@
-msxml4.0
+MSXML 4.0
 ========
 Scripts relating to the now unsupported MSXML 4.0.
 
